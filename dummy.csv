@@ -1,0 +1,351 @@
+ItemName,Category,ItemCode,Description,Unit,StockQuantity,AsOfDate,LowStockWarning,LowStockUnit,PurchasePrice,InclusiveOfTax,GST,createdAt,updatedAt
+Item_3,Household,90548659,Health section according left vote happy.,g,18,2024-10-21,False,pcs,399,True,18%,2024-10-21,2024-10-21
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,33,2024-10-21,True,ml,156,True,12%,2024-10-21,2024-10-21
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,11,2024-10-21,True,g,179,False,12%,2024-10-21,2024-10-21
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,75,2024-10-21,True,kg,244,False,5%,2024-10-21,2024-10-21
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,36,2024-10-21,True,ml,156,True,12%,2024-10-21,2024-10-21
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,21,2024-10-21,True,kg,263,True,18%,2024-10-21,2024-10-21
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,87,2024-10-21,True,g,179,False,12%,2024-10-21,2024-10-21
+Item_5,Personal Care,06359911,Successful item few tell.,g,9,2024-10-21,False,kg,233,False,18%,2024-10-21,2024-10-21
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,31,2024-10-21,True,kg,493,False,12%,2024-10-21,2024-10-21
+Item_15,Household,39496775,Bill focus arm end different.,ltr,83,2024-10-21,False,g,14,False,5%,2024-10-21,2024-10-21
+Item_10,Grocery,61801257,Lose dark adult.,ml,13,2024-10-21,False,kg,198,False,5%,2024-10-21,2024-10-21
+Item_1,Personal Care,04238379,End ten pattern.,pcs,50,2024-10-21,True,g,206,False,18%,2024-10-21,2024-10-21
+Item_3,Household,90548659,Health section according left vote happy.,g,69,2024-10-21,False,pcs,399,True,18%,2024-10-21,2024-10-21
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,81,2024-10-21,True,kg,263,True,18%,2024-10-21,2024-10-21
+Item_2,Household,08475541,So kitchen business cup impact.,ml,44,2024-10-21,False,ltr,180,False,12%,2024-10-21,2024-10-21
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,76,2024-10-21,False,kg,266,False,18%,2024-10-21,2024-10-21
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,88,2024-10-21,True,ml,156,True,12%,2024-10-21,2024-10-21
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,88,2024-10-21,False,kg,266,False,18%,2024-10-21,2024-10-21
+Item_10,Grocery,61801257,Lose dark adult.,ml,70,2024-10-21,False,kg,198,False,5%,2024-10-21,2024-10-21
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,76,2024-10-21,False,ltr,420,False,18%,2024-10-21,2024-10-21
+Item_1,Personal Care,04238379,End ten pattern.,pcs,59,2024-10-21,True,g,206,False,18%,2024-10-21,2024-10-21
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,12,2024-10-21,True,ml,156,True,12%,2024-10-21,2024-10-21
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,45,2024-10-21,True,kg,244,False,5%,2024-10-21,2024-10-21
+Item_1,Personal Care,04238379,End ten pattern.,pcs,63,2024-10-21,True,g,206,False,18%,2024-10-21,2024-10-21
+Item_10,Grocery,61801257,Lose dark adult.,ml,30,2024-10-21,False,kg,198,False,5%,2024-10-21,2024-10-21
+Item_2,Household,08475541,So kitchen business cup impact.,ml,12,2024-10-21,False,ltr,180,False,12%,2024-10-21,2024-10-21
+Item_1,Personal Care,04238379,End ten pattern.,pcs,66,2024-10-21,True,g,206,False,18%,2024-10-21,2024-10-21
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,100,2024-10-21,True,kg,244,False,5%,2024-10-21,2024-10-21
+Item_5,Personal Care,06359911,Successful item few tell.,g,26,2024-10-21,False,kg,233,False,18%,2024-10-21,2024-10-21
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,67,2024-10-21,True,kg,263,True,18%,2024-10-21,2024-10-21
+Item_1,Personal Care,04238379,End ten pattern.,pcs,42,2024-10-21,True,g,206,False,18%,2024-10-21,2024-10-21
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,51,2024-10-21,True,kg,244,False,5%,2024-10-21,2024-10-21
+Item_10,Grocery,61801257,Lose dark adult.,ml,28,2024-10-21,False,kg,198,False,5%,2024-10-21,2024-10-21
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,68,2024-10-21,False,ltr,420,False,18%,2024-10-21,2024-10-21
+Item_3,Household,90548659,Health section according left vote happy.,g,100,2024-10-21,False,pcs,399,True,18%,2024-10-21,2024-10-21
+Item_10,Grocery,61801257,Lose dark adult.,ml,55,2024-10-21,False,kg,198,False,5%,2024-10-21,2024-10-21
+Item_1,Personal Care,04238379,End ten pattern.,pcs,88,2024-10-21,True,g,206,False,18%,2024-10-21,2024-10-21
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,39,2024-10-21,True,kg,263,True,18%,2024-10-21,2024-10-21
+Item_15,Household,39496775,Bill focus arm end different.,ltr,56,2024-10-21,False,g,14,False,5%,2024-10-21,2024-10-21
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,71,2024-10-21,True,ml,156,True,12%,2024-10-21,2024-10-21
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,98,2024-10-21,True,ml,156,True,12%,2024-10-21,2024-10-21
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,70,2024-10-21,True,ltr,143,False,18%,2024-10-21,2024-10-21
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,68,2024-10-21,True,ltr,439,True,5%,2024-10-21,2024-10-21
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,13,2024-10-21,True,g,179,False,12%,2024-10-21,2024-10-21
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,92,2024-10-21,True,kg,263,True,18%,2024-10-21,2024-10-21
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,6,2024-10-21,True,g,179,False,12%,2024-10-21,2024-10-21
+Item_15,Household,39496775,Bill focus arm end different.,ltr,41,2024-10-21,False,g,14,False,5%,2024-10-21,2024-10-21
+Item_1,Personal Care,04238379,End ten pattern.,pcs,6,2024-10-21,True,g,206,False,18%,2024-10-21,2024-10-21
+Item_10,Grocery,61801257,Lose dark adult.,ml,37,2024-10-21,False,kg,198,False,5%,2024-10-21,2024-10-21
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,22,2024-10-21,True,kg,244,False,5%,2024-10-21,2024-10-21
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,66,2024-10-21,True,ltr,439,True,5%,2024-10-21,2024-10-21
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,31,2024-10-21,False,kg,266,False,18%,2024-10-21,2024-10-21
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,90,2024-10-21,False,ltr,420,False,18%,2024-10-21,2024-10-21
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,62,2024-10-21,True,kg,493,False,12%,2024-10-21,2024-10-21
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,85,2024-10-21,True,kg,263,True,18%,2024-10-21,2024-10-21
+Item_3,Household,90548659,Health section according left vote happy.,g,45,2024-10-21,False,pcs,399,True,18%,2024-10-21,2024-10-21
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,18,2024-10-21,True,ml,156,True,12%,2024-10-21,2024-10-21
+Item_15,Household,39496775,Bill focus arm end different.,ltr,38,2024-10-21,False,g,14,False,5%,2024-10-21,2024-10-21
+Item_5,Personal Care,06359911,Successful item few tell.,g,82,2024-10-21,False,kg,233,False,18%,2024-10-21,2024-10-21
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,47,2024-10-21,True,g,179,False,12%,2024-10-21,2024-10-21
+Item_1,Personal Care,04238379,End ten pattern.,pcs,35,2024-10-21,True,g,206,False,18%,2024-10-21,2024-10-21
+Item_15,Household,39496775,Bill focus arm end different.,ltr,41,2024-10-21,False,g,14,False,5%,2024-10-21,2024-10-21
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,55,2024-10-21,True,ltr,143,False,18%,2024-10-21,2024-10-21
+Item_15,Household,39496775,Bill focus arm end different.,ltr,12,2024-10-21,False,g,14,False,5%,2024-10-21,2024-10-21
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,51,2024-10-21,True,ltr,143,False,18%,2024-10-21,2024-10-21
+Item_15,Household,39496775,Bill focus arm end different.,ltr,83,2024-10-21,False,g,14,False,5%,2024-10-21,2024-10-21
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,73,2024-10-21,False,kg,266,False,18%,2024-10-21,2024-10-21
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,89,2024-10-21,True,ltr,143,False,18%,2024-10-21,2024-10-21
+Item_1,Personal Care,04238379,End ten pattern.,pcs,16,2024-10-21,True,g,206,False,18%,2024-10-21,2024-10-21
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,43,2024-10-21,True,ltr,439,True,5%,2024-10-21,2024-10-21
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,87,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_3,Household,90548659,Health section according left vote happy.,g,25,2024-10-22,False,pcs,399,True,18%,2024-10-22,2024-10-22
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,86,2024-10-22,False,kg,266,False,18%,2024-10-22,2024-10-22
+Item_1,Personal Care,04238379,End ten pattern.,pcs,13,2024-10-22,True,g,206,False,18%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,95,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_5,Personal Care,06359911,Successful item few tell.,g,80,2024-10-22,False,kg,233,False,18%,2024-10-22,2024-10-22
+Item_1,Personal Care,04238379,End ten pattern.,pcs,70,2024-10-22,True,g,206,False,18%,2024-10-22,2024-10-22
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,100,2024-10-22,True,ltr,439,True,5%,2024-10-22,2024-10-22
+Item_2,Household,08475541,So kitchen business cup impact.,ml,82,2024-10-22,False,ltr,180,False,12%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,17,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,44,2024-10-22,True,g,179,False,12%,2024-10-22,2024-10-22
+Item_1,Personal Care,04238379,End ten pattern.,pcs,50,2024-10-22,True,g,206,False,18%,2024-10-22,2024-10-22
+Item_5,Personal Care,06359911,Successful item few tell.,g,90,2024-10-22,False,kg,233,False,18%,2024-10-22,2024-10-22
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,6,2024-10-22,True,ltr,143,False,18%,2024-10-22,2024-10-22
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,48,2024-10-22,True,kg,263,True,18%,2024-10-22,2024-10-22
+Item_5,Personal Care,06359911,Successful item few tell.,g,35,2024-10-22,False,kg,233,False,18%,2024-10-22,2024-10-22
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,40,2024-10-22,True,kg,263,True,18%,2024-10-22,2024-10-22
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,71,2024-10-22,False,kg,266,False,18%,2024-10-22,2024-10-22
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,30,2024-10-22,True,ltr,439,True,5%,2024-10-22,2024-10-22
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,34,2024-10-22,True,ml,156,True,12%,2024-10-22,2024-10-22
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,71,2024-10-22,True,ltr,143,False,18%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,69,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,18,2024-10-22,True,ml,156,True,12%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,19,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,12,2024-10-22,True,ltr,143,False,18%,2024-10-22,2024-10-22
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,50,2024-10-22,True,kg,244,False,5%,2024-10-22,2024-10-22
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,88,2024-10-22,True,g,179,False,12%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,22,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,52,2024-10-22,False,kg,266,False,18%,2024-10-22,2024-10-22
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,17,2024-10-22,False,kg,266,False,18%,2024-10-22,2024-10-22
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,88,2024-10-22,False,kg,266,False,18%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,34,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,5,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_5,Personal Care,06359911,Successful item few tell.,g,32,2024-10-22,False,kg,233,False,18%,2024-10-22,2024-10-22
+Item_15,Household,39496775,Bill focus arm end different.,ltr,84,2024-10-22,False,g,14,False,5%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,99,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_1,Personal Care,04238379,End ten pattern.,pcs,94,2024-10-22,True,g,206,False,18%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,89,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_15,Household,39496775,Bill focus arm end different.,ltr,15,2024-10-22,False,g,14,False,5%,2024-10-22,2024-10-22
+Item_15,Household,39496775,Bill focus arm end different.,ltr,88,2024-10-22,False,g,14,False,5%,2024-10-22,2024-10-22
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,95,2024-10-22,True,kg,263,True,18%,2024-10-22,2024-10-22
+Item_15,Household,39496775,Bill focus arm end different.,ltr,35,2024-10-22,False,g,14,False,5%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,94,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,31,2024-10-22,True,kg,244,False,5%,2024-10-22,2024-10-22
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,48,2024-10-22,True,ml,156,True,12%,2024-10-22,2024-10-22
+Item_2,Household,08475541,So kitchen business cup impact.,ml,11,2024-10-22,False,ltr,180,False,12%,2024-10-22,2024-10-22
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,29,2024-10-22,True,ltr,439,True,5%,2024-10-22,2024-10-22
+Item_3,Household,90548659,Health section according left vote happy.,g,57,2024-10-22,False,pcs,399,True,18%,2024-10-22,2024-10-22
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,86,2024-10-22,True,ltr,143,False,18%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,86,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,29,2024-10-22,True,kg,263,True,18%,2024-10-22,2024-10-22
+Item_10,Grocery,61801257,Lose dark adult.,ml,8,2024-10-22,False,kg,198,False,5%,2024-10-22,2024-10-22
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,46,2024-10-22,True,ltr,439,True,5%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,73,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,91,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,7,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,95,2024-10-22,True,kg,263,True,18%,2024-10-22,2024-10-22
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,82,2024-10-22,True,kg,263,True,18%,2024-10-22,2024-10-22
+Item_15,Household,39496775,Bill focus arm end different.,ltr,77,2024-10-22,False,g,14,False,5%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,95,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,88,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,81,2024-10-22,True,kg,493,False,12%,2024-10-22,2024-10-22
+Item_15,Household,39496775,Bill focus arm end different.,ltr,38,2024-10-22,False,g,14,False,5%,2024-10-22,2024-10-22
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,81,2024-10-22,True,g,179,False,12%,2024-10-22,2024-10-22
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,60,2024-10-22,False,kg,266,False,18%,2024-10-22,2024-10-22
+Item_3,Household,90548659,Health section according left vote happy.,g,95,2024-10-22,False,pcs,399,True,18%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,70,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,78,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,52,2024-10-22,False,ltr,420,False,18%,2024-10-22,2024-10-22
+Item_5,Personal Care,06359911,Successful item few tell.,g,67,2024-10-22,False,kg,233,False,18%,2024-10-22,2024-10-22
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,48,2024-10-23,True,ltr,439,True,5%,2024-10-23,2024-10-23
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,16,2024-10-23,True,kg,244,False,5%,2024-10-23,2024-10-23
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,47,2024-10-23,True,g,179,False,12%,2024-10-23,2024-10-23
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,100,2024-10-23,True,g,179,False,12%,2024-10-23,2024-10-23
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,17,2024-10-23,True,kg,263,True,18%,2024-10-23,2024-10-23
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,21,2024-10-23,True,ltr,439,True,5%,2024-10-23,2024-10-23
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,61,2024-10-23,True,ltr,439,True,5%,2024-10-23,2024-10-23
+Item_1,Personal Care,04238379,End ten pattern.,pcs,88,2024-10-23,True,g,206,False,18%,2024-10-23,2024-10-23
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,33,2024-10-23,True,ml,156,True,12%,2024-10-23,2024-10-23
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,67,2024-10-23,True,kg,244,False,5%,2024-10-23,2024-10-23
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,40,2024-10-23,True,ltr,143,False,18%,2024-10-23,2024-10-23
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,78,2024-10-23,False,ltr,420,False,18%,2024-10-23,2024-10-23
+Item_5,Personal Care,06359911,Successful item few tell.,g,38,2024-10-23,False,kg,233,False,18%,2024-10-23,2024-10-23
+Item_10,Grocery,61801257,Lose dark adult.,ml,45,2024-10-23,False,kg,198,False,5%,2024-10-23,2024-10-23
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,64,2024-10-23,True,ltr,439,True,5%,2024-10-23,2024-10-23
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,76,2024-10-23,False,kg,266,False,18%,2024-10-23,2024-10-23
+Item_1,Personal Care,04238379,End ten pattern.,pcs,50,2024-10-23,True,g,206,False,18%,2024-10-23,2024-10-23
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,55,2024-10-23,True,ml,156,True,12%,2024-10-23,2024-10-23
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,77,2024-10-23,False,kg,266,False,18%,2024-10-23,2024-10-23
+Item_15,Household,39496775,Bill focus arm end different.,ltr,84,2024-10-23,False,g,14,False,5%,2024-10-23,2024-10-23
+Item_15,Household,39496775,Bill focus arm end different.,ltr,32,2024-10-23,False,g,14,False,5%,2024-10-23,2024-10-23
+Item_10,Grocery,61801257,Lose dark adult.,ml,61,2024-10-23,False,kg,198,False,5%,2024-10-23,2024-10-23
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,63,2024-10-23,True,ltr,143,False,18%,2024-10-23,2024-10-23
+Item_2,Household,08475541,So kitchen business cup impact.,ml,81,2024-10-23,False,ltr,180,False,12%,2024-10-23,2024-10-23
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,21,2024-10-23,False,kg,266,False,18%,2024-10-23,2024-10-23
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,9,2024-10-23,True,kg,244,False,5%,2024-10-23,2024-10-23
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,17,2024-10-23,True,ml,156,True,12%,2024-10-23,2024-10-23
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,53,2024-10-23,True,ltr,143,False,18%,2024-10-23,2024-10-23
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,12,2024-10-23,False,ltr,420,False,18%,2024-10-23,2024-10-23
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,15,2024-10-23,True,kg,493,False,12%,2024-10-23,2024-10-23
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,73,2024-10-23,True,g,179,False,12%,2024-10-23,2024-10-23
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,58,2024-10-23,True,ml,156,True,12%,2024-10-23,2024-10-23
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,89,2024-10-23,False,kg,266,False,18%,2024-10-23,2024-10-23
+Item_3,Household,90548659,Health section according left vote happy.,g,74,2024-10-23,False,pcs,399,True,18%,2024-10-23,2024-10-23
+Item_3,Household,90548659,Health section according left vote happy.,g,20,2024-10-23,False,pcs,399,True,18%,2024-10-23,2024-10-23
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,55,2024-10-23,False,ltr,420,False,18%,2024-10-23,2024-10-23
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,9,2024-10-23,True,ml,156,True,12%,2024-10-23,2024-10-23
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,91,2024-10-23,True,ml,156,True,12%,2024-10-23,2024-10-23
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,35,2024-10-23,True,kg,493,False,12%,2024-10-23,2024-10-23
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,76,2024-10-23,True,kg,244,False,5%,2024-10-23,2024-10-23
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,93,2024-10-23,True,ml,156,True,12%,2024-10-23,2024-10-23
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,12,2024-10-23,True,ltr,143,False,18%,2024-10-23,2024-10-23
+Item_1,Personal Care,04238379,End ten pattern.,pcs,27,2024-10-23,True,g,206,False,18%,2024-10-23,2024-10-23
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,5,2024-10-23,True,ltr,143,False,18%,2024-10-23,2024-10-23
+Item_15,Household,39496775,Bill focus arm end different.,ltr,61,2024-10-23,False,g,14,False,5%,2024-10-23,2024-10-23
+Item_3,Household,90548659,Health section according left vote happy.,g,57,2024-10-23,False,pcs,399,True,18%,2024-10-23,2024-10-23
+Item_1,Personal Care,04238379,End ten pattern.,pcs,19,2024-10-23,True,g,206,False,18%,2024-10-23,2024-10-23
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,39,2024-10-23,False,kg,266,False,18%,2024-10-23,2024-10-23
+Item_2,Household,08475541,So kitchen business cup impact.,ml,68,2024-10-23,False,ltr,180,False,12%,2024-10-23,2024-10-23
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,54,2024-10-23,False,ltr,420,False,18%,2024-10-23,2024-10-23
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,72,2024-10-23,True,kg,493,False,12%,2024-10-23,2024-10-23
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,92,2024-10-23,True,kg,263,True,18%,2024-10-23,2024-10-23
+Item_2,Household,08475541,So kitchen business cup impact.,ml,66,2024-10-23,False,ltr,180,False,12%,2024-10-23,2024-10-23
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,69,2024-10-23,False,kg,266,False,18%,2024-10-23,2024-10-23
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,38,2024-10-23,True,kg,244,False,5%,2024-10-23,2024-10-23
+Item_15,Household,39496775,Bill focus arm end different.,ltr,53,2024-10-23,False,g,14,False,5%,2024-10-23,2024-10-23
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,94,2024-10-23,True,g,179,False,12%,2024-10-23,2024-10-23
+Item_15,Household,39496775,Bill focus arm end different.,ltr,25,2024-10-23,False,g,14,False,5%,2024-10-23,2024-10-23
+Item_10,Grocery,61801257,Lose dark adult.,ml,84,2024-10-23,False,kg,198,False,5%,2024-10-23,2024-10-23
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,51,2024-10-23,True,g,179,False,12%,2024-10-23,2024-10-23
+Item_10,Grocery,61801257,Lose dark adult.,ml,53,2024-10-23,False,kg,198,False,5%,2024-10-23,2024-10-23
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,15,2024-10-23,True,g,179,False,12%,2024-10-23,2024-10-23
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,72,2024-10-23,True,kg,244,False,5%,2024-10-23,2024-10-23
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,43,2024-10-23,True,kg,263,True,18%,2024-10-23,2024-10-23
+Item_3,Household,90548659,Health section according left vote happy.,g,52,2024-10-23,False,pcs,399,True,18%,2024-10-23,2024-10-23
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,53,2024-10-23,False,kg,266,False,18%,2024-10-23,2024-10-23
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,54,2024-10-23,True,kg,244,False,5%,2024-10-23,2024-10-23
+Item_5,Personal Care,06359911,Successful item few tell.,g,62,2024-10-23,False,kg,233,False,18%,2024-10-23,2024-10-23
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,37,2024-10-23,False,ltr,420,False,18%,2024-10-23,2024-10-23
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,37,2024-10-23,True,ltr,143,False,18%,2024-10-23,2024-10-23
+Item_3,Household,90548659,Health section according left vote happy.,g,92,2024-10-24,False,pcs,399,True,18%,2024-10-24,2024-10-24
+Item_5,Personal Care,06359911,Successful item few tell.,g,64,2024-10-24,False,kg,233,False,18%,2024-10-24,2024-10-24
+Item_5,Personal Care,06359911,Successful item few tell.,g,73,2024-10-24,False,kg,233,False,18%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,86,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_15,Household,39496775,Bill focus arm end different.,ltr,82,2024-10-24,False,g,14,False,5%,2024-10-24,2024-10-24
+Item_5,Personal Care,06359911,Successful item few tell.,g,73,2024-10-24,False,kg,233,False,18%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,34,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,59,2024-10-24,True,ltr,143,False,18%,2024-10-24,2024-10-24
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,47,2024-10-24,True,kg,263,True,18%,2024-10-24,2024-10-24
+Item_5,Personal Care,06359911,Successful item few tell.,g,27,2024-10-24,False,kg,233,False,18%,2024-10-24,2024-10-24
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,94,2024-10-24,True,ltr,143,False,18%,2024-10-24,2024-10-24
+Item_10,Grocery,61801257,Lose dark adult.,ml,25,2024-10-24,False,kg,198,False,5%,2024-10-24,2024-10-24
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,54,2024-10-24,True,ml,156,True,12%,2024-10-24,2024-10-24
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,56,2024-10-24,False,ltr,420,False,18%,2024-10-24,2024-10-24
+Item_1,Personal Care,04238379,End ten pattern.,pcs,20,2024-10-24,True,g,206,False,18%,2024-10-24,2024-10-24
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,22,2024-10-24,True,kg,263,True,18%,2024-10-24,2024-10-24
+Item_2,Household,08475541,So kitchen business cup impact.,ml,50,2024-10-24,False,ltr,180,False,12%,2024-10-24,2024-10-24
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,79,2024-10-24,True,ltr,143,False,18%,2024-10-24,2024-10-24
+Item_10,Grocery,61801257,Lose dark adult.,ml,25,2024-10-24,False,kg,198,False,5%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,79,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,32,2024-10-24,False,ltr,420,False,18%,2024-10-24,2024-10-24
+Item_3,Household,90548659,Health section according left vote happy.,g,5,2024-10-24,False,pcs,399,True,18%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,30,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_2,Household,08475541,So kitchen business cup impact.,ml,17,2024-10-24,False,ltr,180,False,12%,2024-10-24,2024-10-24
+Item_3,Household,90548659,Health section according left vote happy.,g,83,2024-10-24,False,pcs,399,True,18%,2024-10-24,2024-10-24
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,49,2024-10-24,True,ml,156,True,12%,2024-10-24,2024-10-24
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,95,2024-10-24,True,g,179,False,12%,2024-10-24,2024-10-24
+Item_5,Personal Care,06359911,Successful item few tell.,g,53,2024-10-24,False,kg,233,False,18%,2024-10-24,2024-10-24
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,100,2024-10-24,True,kg,244,False,5%,2024-10-24,2024-10-24
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,73,2024-10-24,True,kg,493,False,12%,2024-10-24,2024-10-24
+Item_2,Household,08475541,So kitchen business cup impact.,ml,59,2024-10-24,False,ltr,180,False,12%,2024-10-24,2024-10-24
+Item_3,Household,90548659,Health section according left vote happy.,g,73,2024-10-24,False,pcs,399,True,18%,2024-10-24,2024-10-24
+Item_1,Personal Care,04238379,End ten pattern.,pcs,66,2024-10-24,True,g,206,False,18%,2024-10-24,2024-10-24
+Item_5,Personal Care,06359911,Successful item few tell.,g,93,2024-10-24,False,kg,233,False,18%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,77,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_5,Personal Care,06359911,Successful item few tell.,g,7,2024-10-24,False,kg,233,False,18%,2024-10-24,2024-10-24
+Item_2,Household,08475541,So kitchen business cup impact.,ml,65,2024-10-24,False,ltr,180,False,12%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,55,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,66,2024-10-24,True,ltr,143,False,18%,2024-10-24,2024-10-24
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,22,2024-10-24,True,kg,263,True,18%,2024-10-24,2024-10-24
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,99,2024-10-24,True,g,179,False,12%,2024-10-24,2024-10-24
+Item_2,Household,08475541,So kitchen business cup impact.,ml,59,2024-10-24,False,ltr,180,False,12%,2024-10-24,2024-10-24
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,81,2024-10-24,False,kg,266,False,18%,2024-10-24,2024-10-24
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,10,2024-10-24,False,kg,266,False,18%,2024-10-24,2024-10-24
+Item_2,Household,08475541,So kitchen business cup impact.,ml,12,2024-10-24,False,ltr,180,False,12%,2024-10-24,2024-10-24
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,45,2024-10-24,True,g,179,False,12%,2024-10-24,2024-10-24
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,53,2024-10-24,False,ltr,420,False,18%,2024-10-24,2024-10-24
+Item_15,Household,39496775,Bill focus arm end different.,ltr,55,2024-10-24,False,g,14,False,5%,2024-10-24,2024-10-24
+Item_10,Grocery,61801257,Lose dark adult.,ml,8,2024-10-24,False,kg,198,False,5%,2024-10-24,2024-10-24
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,59,2024-10-24,True,kg,244,False,5%,2024-10-24,2024-10-24
+Item_15,Household,39496775,Bill focus arm end different.,ltr,76,2024-10-24,False,g,14,False,5%,2024-10-24,2024-10-24
+Item_15,Household,39496775,Bill focus arm end different.,ltr,49,2024-10-24,False,g,14,False,5%,2024-10-24,2024-10-24
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,67,2024-10-24,True,ltr,143,False,18%,2024-10-24,2024-10-24
+Item_15,Household,39496775,Bill focus arm end different.,ltr,40,2024-10-24,False,g,14,False,5%,2024-10-24,2024-10-24
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,75,2024-10-24,False,ltr,420,False,18%,2024-10-24,2024-10-24
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,91,2024-10-24,True,kg,493,False,12%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,28,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_3,Household,90548659,Health section according left vote happy.,g,85,2024-10-24,False,pcs,399,True,18%,2024-10-24,2024-10-24
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,61,2024-10-24,True,kg,263,True,18%,2024-10-24,2024-10-24
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,57,2024-10-24,True,kg,244,False,5%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,42,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_5,Personal Care,06359911,Successful item few tell.,g,38,2024-10-24,False,kg,233,False,18%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,68,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,48,2024-10-24,True,ltr,439,True,5%,2024-10-24,2024-10-24
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,85,2024-10-24,True,kg,244,False,5%,2024-10-24,2024-10-24
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,27,2024-10-24,True,kg,263,True,18%,2024-10-24,2024-10-24
+Item_2,Household,08475541,So kitchen business cup impact.,ml,82,2024-10-24,False,ltr,180,False,12%,2024-10-24,2024-10-24
+Item_2,Household,08475541,So kitchen business cup impact.,ml,42,2024-10-24,False,ltr,180,False,12%,2024-10-24,2024-10-24
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,42,2024-10-24,True,kg,263,True,18%,2024-10-24,2024-10-24
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,6,2024-10-24,True,g,179,False,12%,2024-10-24,2024-10-24
+Item_15,Household,39496775,Bill focus arm end different.,ltr,48,2024-10-25,False,g,14,False,5%,2024-10-25,2024-10-25
+Item_2,Household,08475541,So kitchen business cup impact.,ml,65,2024-10-25,False,ltr,180,False,12%,2024-10-25,2024-10-25
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,87,2024-10-25,True,g,179,False,12%,2024-10-25,2024-10-25
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,81,2024-10-25,False,ltr,420,False,18%,2024-10-25,2024-10-25
+Item_3,Household,90548659,Health section according left vote happy.,g,87,2024-10-25,False,pcs,399,True,18%,2024-10-25,2024-10-25
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,41,2024-10-25,True,ltr,439,True,5%,2024-10-25,2024-10-25
+Item_10,Grocery,61801257,Lose dark adult.,ml,92,2024-10-25,False,kg,198,False,5%,2024-10-25,2024-10-25
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,81,2024-10-25,True,ml,156,True,12%,2024-10-25,2024-10-25
+Item_5,Personal Care,06359911,Successful item few tell.,g,76,2024-10-25,False,kg,233,False,18%,2024-10-25,2024-10-25
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,98,2024-10-25,True,ml,156,True,12%,2024-10-25,2024-10-25
+Item_10,Grocery,61801257,Lose dark adult.,ml,19,2024-10-25,False,kg,198,False,5%,2024-10-25,2024-10-25
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,9,2024-10-25,True,ltr,439,True,5%,2024-10-25,2024-10-25
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,56,2024-10-25,True,ml,156,True,12%,2024-10-25,2024-10-25
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,27,2024-10-25,True,ltr,439,True,5%,2024-10-25,2024-10-25
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,54,2024-10-25,True,ltr,439,True,5%,2024-10-25,2024-10-25
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,80,2024-10-25,True,ltr,439,True,5%,2024-10-25,2024-10-25
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,93,2024-10-25,True,kg,493,False,12%,2024-10-25,2024-10-25
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,28,2024-10-25,True,ml,156,True,12%,2024-10-25,2024-10-25
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,94,2024-10-25,True,ltr,143,False,18%,2024-10-25,2024-10-25
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,20,2024-10-25,True,kg,263,True,18%,2024-10-25,2024-10-25
+Item_2,Household,08475541,So kitchen business cup impact.,ml,50,2024-10-25,False,ltr,180,False,12%,2024-10-25,2024-10-25
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,28,2024-10-25,True,kg,493,False,12%,2024-10-25,2024-10-25
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,24,2024-10-25,True,g,179,False,12%,2024-10-25,2024-10-25
+Item_15,Household,39496775,Bill focus arm end different.,ltr,53,2024-10-25,False,g,14,False,5%,2024-10-25,2024-10-25
+Item_15,Household,39496775,Bill focus arm end different.,ltr,56,2024-10-25,False,g,14,False,5%,2024-10-25,2024-10-25
+Item_5,Personal Care,06359911,Successful item few tell.,g,38,2024-10-25,False,kg,233,False,18%,2024-10-25,2024-10-25
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,95,2024-10-25,True,kg,493,False,12%,2024-10-25,2024-10-25
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,81,2024-10-25,True,kg,263,True,18%,2024-10-25,2024-10-25
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,91,2024-10-25,True,kg,263,True,18%,2024-10-25,2024-10-25
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,39,2024-10-25,True,ltr,439,True,5%,2024-10-25,2024-10-25
+Item_1,Personal Care,04238379,End ten pattern.,pcs,28,2024-10-25,True,g,206,False,18%,2024-10-25,2024-10-25
+Item_9,Grocery,46430878,Whatever recognize hospital include officer.,pcs,49,2024-10-25,True,ml,156,True,12%,2024-10-25,2024-10-25
+Item_1,Personal Care,04238379,End ten pattern.,pcs,86,2024-10-25,True,g,206,False,18%,2024-10-25,2024-10-25
+Item_5,Personal Care,06359911,Successful item few tell.,g,89,2024-10-25,False,kg,233,False,18%,2024-10-25,2024-10-25
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,99,2024-10-25,True,ltr,143,False,18%,2024-10-25,2024-10-25
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,51,2024-10-25,False,kg,266,False,18%,2024-10-25,2024-10-25
+Item_10,Grocery,61801257,Lose dark adult.,ml,36,2024-10-25,False,kg,198,False,5%,2024-10-25,2024-10-25
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,62,2024-10-25,False,ltr,420,False,18%,2024-10-25,2024-10-25
+Item_2,Household,08475541,So kitchen business cup impact.,ml,15,2024-10-25,False,ltr,180,False,12%,2024-10-25,2024-10-25
+Item_3,Household,90548659,Health section according left vote happy.,g,94,2024-10-25,False,pcs,399,True,18%,2024-10-25,2024-10-25
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,80,2024-10-25,False,ltr,420,False,18%,2024-10-25,2024-10-25
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,96,2024-10-25,True,kg,493,False,12%,2024-10-25,2024-10-25
+Item_6,Household,30188457,This war street probably lawyer particularly.,ltr,62,2024-10-25,True,g,179,False,12%,2024-10-25,2024-10-25
+Item_11,Personal Care,27165829,Game strategy Mrs Democrat attorney question.,ltr,17,2024-10-25,True,ltr,439,True,5%,2024-10-25,2024-10-25
+Item_10,Grocery,61801257,Lose dark adult.,ml,33,2024-10-25,False,kg,198,False,5%,2024-10-25,2024-10-25
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,29,2024-10-25,False,ltr,420,False,18%,2024-10-25,2024-10-25
+Item_5,Personal Care,06359911,Successful item few tell.,g,54,2024-10-25,False,kg,233,False,18%,2024-10-25,2024-10-25
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,10,2024-10-25,True,ltr,143,False,18%,2024-10-25,2024-10-25
+Item_2,Household,08475541,So kitchen business cup impact.,ml,8,2024-10-25,False,ltr,180,False,12%,2024-10-25,2024-10-25
+Item_4,Personal Care,98068630,President operation seek keep yard.,g,61,2024-10-25,False,ltr,420,False,18%,2024-10-25,2024-10-25
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,20,2024-10-25,True,kg,493,False,12%,2024-10-25,2024-10-25
+Item_15,Household,39496775,Bill focus arm end different.,ltr,77,2024-10-25,False,g,14,False,5%,2024-10-25,2024-10-25
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,21,2024-10-25,True,kg,244,False,5%,2024-10-25,2024-10-25
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,32,2024-10-25,True,kg,244,False,5%,2024-10-25,2024-10-25
+Item_15,Household,39496775,Bill focus arm end different.,ltr,27,2024-10-25,False,g,14,False,5%,2024-10-25,2024-10-25
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,74,2024-10-25,True,ltr,143,False,18%,2024-10-25,2024-10-25
+Item_5,Personal Care,06359911,Successful item few tell.,g,86,2024-10-25,False,kg,233,False,18%,2024-10-25,2024-10-25
+Item_1,Personal Care,04238379,End ten pattern.,pcs,48,2024-10-25,True,g,206,False,18%,2024-10-25,2024-10-25
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,95,2024-10-25,True,kg,244,False,5%,2024-10-25,2024-10-25
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,31,2024-10-25,True,ltr,143,False,18%,2024-10-25,2024-10-25
+Item_5,Personal Care,06359911,Successful item few tell.,g,24,2024-10-25,False,kg,233,False,18%,2024-10-25,2024-10-25
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,19,2024-10-25,True,kg,244,False,5%,2024-10-25,2024-10-25
+Item_14,Personal Care,17633802,Bar issue follow sort scientist little food.,pcs,41,2024-10-25,True,ltr,143,False,18%,2024-10-25,2024-10-25
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,86,2024-10-25,False,kg,266,False,18%,2024-10-25,2024-10-25
+Item_7,Personal Care,74954131,Moment down important break bring me idea.,pcs,9,2024-10-25,False,kg,266,False,18%,2024-10-25,2024-10-25
+Item_13,Household,70617290,Recently market magazine lay such.,ltr,9,2024-10-25,True,kg,263,True,18%,2024-10-25,2024-10-25
+Item_12,Personal Care,76262449,Forward owner simple road.,ltr,39,2024-10-25,True,kg,493,False,12%,2024-10-25,2024-10-25
+Item_10,Grocery,61801257,Lose dark adult.,ml,15,2024-10-25,False,kg,198,False,5%,2024-10-25,2024-10-25
+Item_8,Household,01042658,He remain financial executive deep conference.,ltr,42,2024-10-25,True,kg,244,False,5%,2024-10-25,2024-10-25
+Item_10,Grocery,61801257,Lose dark adult.,ml,94,2024-10-25,False,kg,198,False,5%,2024-10-25,2024-10-25
